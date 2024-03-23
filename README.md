@@ -1,0 +1,19 @@
+- 👋 Hi, I’m @Darkz1085
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+<!---
+Darkz1085/Darkz1085 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+ <h1 align="center"> DARK-Z HACKING </h1> 
+<p align="center"> Introducing DARK-Z HACKING, It is designed to bring a whole new level of excitement to your boring WhatsApp use. </p>
+
+<p align="center">
+    <img alt="DARK docs" height="300" src="https://telegra.ph/file/da5793ad9519acd6208e4.jpg">
+  </a>
+</p>
